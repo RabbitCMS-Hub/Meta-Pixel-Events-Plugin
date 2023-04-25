@@ -1,3 +1,5 @@
+![Meta-Pixel-Events-Plugin](https://user-images.githubusercontent.com/5244451/234191015-86a72882-29e7-4fef-9d86-597c2e07711f.png)
+
 # Meta-Pixel-Events-Plugin
 Facebook pikselini kullanarak ayrıntılı olarak istatistiklere ulaşabilir ve Business Manager üzerinden pikselinizi paylaşabilirsiniz. Piksel entegrasyonu sayesinde sayfa ve ürün ziyaretlerinizi görebilir, sonrasındaki sepet ve sipariş işlem adetlerini görebilirsiniz.
 
